@@ -1,1 +1,1 @@
-# PGM---VAEs-for-semi-supervision
+# VAEs-for-semi-supervised-learning
